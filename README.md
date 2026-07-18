@@ -26,13 +26,13 @@ To install **Seshu**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://personal-portfolio-qmk126xne-seshu-project.vercel.app/
+ https://personal-portfolio-qmk126xne-seshu-project.vercel.app/
 ```
 
 Windows:
 
 ```bash
-git clone https://personal-portfolio-qmk126xne-seshu-project.vercel.app/
+ https://personal-portfolio-qmk126xne-seshu-project.vercel.app/
 ```
 
 ## Contact
