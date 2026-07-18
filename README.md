@@ -37,7 +37,7 @@ Windows:
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/velagamdla-seshu-52ba29328/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BsO8yS1iSsWMWmBvEUhxhw%3D%3D_).
 
 ## License
 
