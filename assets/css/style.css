@@ -345,13 +345,20 @@ main {
 }
 
 .info-content .title {
-  color: var(--white-1);
-  background: var(--onyx);
-  font-size: var(--fs-8);
-  font-weight: var(--fw-300);
-  width: max-content;
-  padding: 3px 12px;
-  border-radius: 8px;
+    color: var(--white-1);
+    background: var(--onyx);
+    padding: 8px 15px;
+    border-radius: 8px;
+    text-align: center;
+    width: max-content;
+    margin: 0 auto;
+}
+
+.info-content .title span {
+    display: block;
+    font-size: 18px;      /* Same font size */
+    font-weight: 500;     /* Same font weight */
+    line-height: 1.5;
 }
 
 .info_more-btn {
