@@ -21,18 +21,18 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing vCard
 
-To install **vCard**, follow these steps:
+To install **Seshu**, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://personal-portfolio-qmk126xne-seshu-project.vercel.app/
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://personal-portfolio-qmk126xne-seshu-project.vercel.app/
 ```
 
 ## Contact
