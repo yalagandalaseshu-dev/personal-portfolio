@@ -17,7 +17,7 @@ Seshu is a fully responsive personal portfolio website, responsive for all devic
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://personal-portfolio-41e2m5lsg-seshu-project.vercel.app/) must be installed on your operating system.
 
 ## Installing Seshu
 
@@ -26,13 +26,13 @@ To install **Seshu**, follow these steps:
 Linux and macOS:
 
 ```bash
- https://personal-portfolio-qmk126xne-seshu-project.vercel.app/
+ https://personal-portfolio-41e2m5lsg-seshu-project.vercel.app/
 ```
 
 Windows:
 
 ```bash
- https://personal-portfolio-qmk126xne-seshu-project.vercel.app/
+ https://personal-portfolio-41e2m5lsg-seshu-project.vercel.app/
 ```
 
 ## Contact
